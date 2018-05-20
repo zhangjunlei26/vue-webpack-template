@@ -18,8 +18,8 @@
 #### Init Project
 
 ``` bash
-$ npm install -g vue-cli
-$ vue init Plortinus/vue-multiple-pages new-project
+$ npm install -g @vue/cli @vue/cli-init
+$ vue init zhangjunlei26/vue-webpack-template new-project
 $ cd new-project
 $ npm install
 ```
